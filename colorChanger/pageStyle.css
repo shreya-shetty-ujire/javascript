@@ -1,0 +1,48 @@
+span {
+    display: block;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+
+  .button{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+
+  #grey{
+    background: grey;
+    color: white;
+    font-size: x-large;
+  }
+  #white{
+    background: white;
+    font-size: x-large;
+  }
+  #blue{
+    background: blue;
+    color: white;
+    font-size: x-large;
+  }
+  #yellow{
+    background: yellow;
+    font-size: x-large;
+  }
+
+  nav a {
+    display: inline-block;
+    min-width: 9rem;
+    padding: 0.6rem;
+    border-radius: 0.2rem;
+    border: solid 1px rgb(22, 22, 22);
+    text-align: center;
+    text-decoration: none;
+    color: #1b1b1b;
+    margin-left: 40%;
+    margin-top: 10px ;
+}
