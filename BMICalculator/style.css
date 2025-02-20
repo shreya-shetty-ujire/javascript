@@ -44,4 +44,15 @@
     padding-top: 25px;
     
   }
-  
+  nav a {
+    display: inline-block;
+    min-width: 9rem;
+    padding: 0.6rem;
+    border-radius: 0.2rem;
+    border: solid 1px rgb(22, 22, 22);
+    text-align: center;
+    text-decoration: none;
+    color: #1b1b1b;
+    margin-left: 40%;
+    margin-top: 10px ;
+}
